@@ -191,7 +191,9 @@ text-align: center;
 
 
  .skill {
-align-items: stretch;
+flex: auto;
+flex-direction: column;
+justify-items: center;
 align-items: center;
  }
 
