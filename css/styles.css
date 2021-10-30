@@ -13,6 +13,12 @@ h1{
     font-weight: 300;
     font-family: 'Cormorant', serif; 
 }
+
+h2{
+    font-family:'Montserrat', sans-serif;
+    font-size:1 em;
+
+   }
 a:link {
     text-decoration: none;
     color: black;
@@ -123,7 +129,7 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .one a:hover{
-    
+
 border: #171717;
 
 
@@ -245,9 +251,12 @@ flex-direction: column;
     font-size: 1.1em;
    }
 
+ 
+
    p{
 
     font-size: 16px;
+  
    }
 
   }
