@@ -250,13 +250,14 @@ flex-direction: column;
 
 
 .fa {
-    padding: 40px;
+    padding: 10px;
     font-size: 30px;
     width: 50px;
     text-align: center;
     text-decoration: none;
     color:black;
 margin-left: 50px;
+align-items: center;
   }
 
 
