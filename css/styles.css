@@ -129,8 +129,8 @@ font-family: Arial, Helvetica, sans-serif;
 }
 
 .one a:hover{
+    border-style: solid;
     border-width: 1px;
-
 border: #171717;
 
 
