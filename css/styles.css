@@ -249,6 +249,16 @@ flex-direction: column;
 }
 
 
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color:black;
+  }
+
+
 
 @media only screen and (max-width: 600px) {
    
