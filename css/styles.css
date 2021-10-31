@@ -19,6 +19,8 @@ h2{
     font-size:1 em;
 
    }
+
+
 a:link {
     text-decoration: none;
     color: black;
@@ -107,7 +109,7 @@ color:black;
      font-family: 'Cormorant', serif; 
      font-size: 1.5em;
     text-align: left;
-
+letter-spacing: .2rem;
   }
 
   .spacer{
@@ -192,6 +194,7 @@ background-color: black;
 color: white;
 font-family: 'Montserrat', sans-serif;
 text-transform: capitalize;
+letter-spacing: .2rem;
     
 
 }
