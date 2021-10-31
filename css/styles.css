@@ -104,8 +104,8 @@ color:black;
      padding-right: 20px;
      width: 350px;
      height: 25px;
-     font: bold;
-     font-size: 2em;
+     font: 'Cormorant', serif; 
+     font-size: 1.5em;
     text-align: left;
 
   }
